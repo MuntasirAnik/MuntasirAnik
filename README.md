@@ -19,7 +19,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 A full stack web application developer from <b>Bangladesh</b> 」
+    「 A passionate software developer and tech enthusiast 」
     <br>
     <br>
   </samp>
