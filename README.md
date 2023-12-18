@@ -60,7 +60,7 @@
 <br /><br /><br />
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,nodejs,ts,dotnet,mysql,mongodb,nextjs,nestjs,git,github,kubernetes,docker,cs,bootstrap,express,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,nodejs,ts,dotnet,mysql,mongodb,nextjs,nestjs,git,github,kubernetes,docker,cs,express,docker,postman" />
   </a>
 </p>
 
