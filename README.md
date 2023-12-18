@@ -12,14 +12,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://alsiam.com">Muntasir Anik</a></b>
+                <b><a target="_blank" href="(https://portfolio-muntasiranik.vercel.app/)">Muntasir Anik</a></b>
         </samp>
 </h3>
 
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 A full stack web application developer from <b>Bangladesh</b> 」
     <br>
     <br>
   </samp>
@@ -48,16 +48,16 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new technologies<br/><br/>
  📧 &emsp; Reach me anytime: anik.muntasir005@gmail.com<br/><br/>
 
 </p>
-
+<br /><br /><br /><br /><br /><hr/>
 ## Use To Code
-
+<br /><br /><br />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,materialui,nodejs,ts,dotnet,mysql,mongodb,nextjs,nestjs,git,github,kubernetes,docker,cs,bootstrap,express,docker,postman" />
